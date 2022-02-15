@@ -15,6 +15,7 @@ h1 {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    text-decoration: underline wavy rgba(111, 54, 165, 0.4);
 }
 
 #container {
